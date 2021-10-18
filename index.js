@@ -3,3 +3,5 @@
 const SOLID = () => {
     console.log('SOLID')
 }
+
+//EDIT - SOLID
